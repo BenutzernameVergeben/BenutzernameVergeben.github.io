@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Erste Website",
+    "section": "",
+    "text": "Bitte den Ofen ausmachen.\n-Ofen an\n\n-Ofen aus \nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
